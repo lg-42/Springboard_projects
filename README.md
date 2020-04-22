@@ -1,13 +1,13 @@
 # Springboard_projects
 
-## Unit 5 - Data Wrangling:
+### Unit 5 - Data Wrangling:
 
 1. API data wrangling mini project - Unit 5 MiniProject_LG.ipynb
 2. SQL data wrangling mini project - SQL Miniproject - Unit 5_LG.ipynb
 
-## Unit 7 - Data Storytelling
+### Unit 7 - Data Storytelling
 
-## Unit 8 - Statistical Methods for Data Analysis
+### Unit 8 - Statistical Methods for Data Analysis
 
 1. Frequentist mini project Part A - inferential_statistics_1a-Q6/25_LG.ipynb
 2. Frequentist mini project Part B - inferential_statistics_1b-Q6/25_LG.ipynb
