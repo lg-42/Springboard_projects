@@ -2,9 +2,9 @@
 
 ### Unit 5 - Data Wrangling:
 
-1. API data wrangling mini project - api_data_wrangling_mini_project_LG.ipynb
-2. JSON data wrangling mini project - Unit 5 MiniProject_LG.ipynb
+1. JSON data wrangling mini project - Unit 5 MiniProject_LG.ipynb
 2. SQL data wrangling mini project - SQL Miniproject - Unit 5_LG.ipynb
+3. API data wrangling mini project - api_data_wrangling_mini_project_LG.ipynb
 
 ### Unit 7 - Data Storytelling
 
