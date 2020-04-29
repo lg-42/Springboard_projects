@@ -7,7 +7,7 @@
 3. API data wrangling mini project - api_data_wrangling_mini_project_LG.ipynb
 
 ### Unit 7 - Data Storytelling
-
+1. Data Story for Capstone Project 1 - Unit 7 - Data story.ipynb
 ### Unit 8 - Statistical Methods for Data Analysis
 
 1. Frequentist mini project Part A - inferential_statistics_1a-Q6/25_LG.ipynb
