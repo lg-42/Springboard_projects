@@ -15,6 +15,7 @@
 1. Frequentist mini project Part A - inferential_statistics_1a-Q6/25_LG.ipynb
 2. Frequentist mini project Part B - inferential_statistics_1b-Q6/25_LG.ipynb
 3. Bootstrap inference mini project - inferential_statistics_2-Q_LG.ipynb
+4. Bayesian mini project - inferential_statistics_3-Q_LG.ipynb
 
 ### Unit 10 - Machine Learning
 
