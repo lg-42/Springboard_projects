@@ -19,4 +19,5 @@
 
 ### Unit 10 - Machine Learning
 
-1. Logistic Regression - Mini_Project_Logistic_Regression_LG.ipynb
+1. Linear Regression - Mini_Project_Linear_Regression_LG.ipynb
+2. Logistic Regression - Mini_Project_Logistic_Regression_LG.ipynb
