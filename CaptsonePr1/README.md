@@ -16,6 +16,8 @@ Contents
     - AHRF2019_dict.csv
     - All_States_Governors_Party.csv
 4. Preliminary Reports
+    - Capstone Project 1 – In-Depth Analysis.docx
+    - Capstone Project 1 – Statistical Analysis.docx
     - Data Story.ipynb
     - Combine and Prepare Data.ipynb
     - Individual_Market_Plans.ipynb
