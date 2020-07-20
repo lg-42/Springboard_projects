@@ -3,8 +3,11 @@
 This folder contains programs developed while working on Captsone Project 1 - Are Individual Health Insurance Market competitive? The analysis explores the number of health insurance plans options an individual faces when buying health insurance through the federally mandated market place.
 
 Contents
-1. Capstone final report (draft): Capstone Project 1.docx / Capstone Project 1 - Final Draft.pdf
-2. Associated Python Notebooks:
+1. Capstone final report: 
+    - Capstone Project 1_Final.docx / Capstone Project 1 - Final.pdf
+    - Capstone 1 Presentation.pptx
+    - Capstone 1 - Main Analysis Final.ipynb
+2. Supplemental Python Notebooks:
     - Capstone 1 – AHRF_Dictionary.ipynb
     - Capstone 1 – Building the analytic dataset.ipynb
     - Capstone 1 – Data Description.ipynb
@@ -16,6 +19,7 @@ Contents
     - AHRF2019_dict.csv
     - All_States_Governors_Party.csv
 4. Preliminary Reports
+    - Capstone Project 1 Final Draft.docx / Capstone Project 1 final Draft.pdf
     - Capstone Project 1 – In-Depth Analysis.docx
     - Capstone Project 1 – Statistical Analysis.docx
     - Data Story.ipynb
